@@ -4,7 +4,7 @@ interface MessageProps {
 }
 
 export const Message = ({content, isUserMessage}: MessageProps) =>{
-    return <div className="">
+    return <div className={}>
           
     </div>
 }
